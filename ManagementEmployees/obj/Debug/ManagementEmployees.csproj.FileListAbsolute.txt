@@ -1,0 +1,55 @@
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe.config
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.AssemblyReference.cache
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.SuggestedBindingRedirects.cache
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Form1.resources
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Properties.Resources.resources
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.GenerateResource.cache
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.CoreCompileInputs.cache
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.exe
+C:\Users\ccquo\OneDrive\Máy tính\Deadline SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe.config
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.AssemblyReference.cache
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.SuggestedBindingRedirects.cache
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Form1.resources
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Properties.Resources.resources
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.GenerateResource.cache
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.CoreCompileInputs.cache
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.exe
+C:\Users\ccquo\OneDrive\Máy tính\SQL 2 tuần\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe.config
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.AssemblyReference.cache
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.SuggestedBindingRedirects.cache
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Form1.resources
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Properties.Resources.resources
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.GenerateResource.cache
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.CoreCompileInputs.cache
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.exe
+C:\Users\ccquo\OneDrive\Máy tính\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.pdb
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe.config
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.pdb
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.AssemblyReference.cache
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.SuggestedBindingRedirects.cache
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Form1.resources
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Properties.Resources.resources
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.GenerateResource.cache
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.CoreCompileInputs.cache
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.exe
+D:\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe.config
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.exe
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\bin\Debug\ManagementEmployees.pdb
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.AssemblyReference.cache
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.SuggestedBindingRedirects.cache
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Form1.resources
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.Properties.Resources.resources
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.GenerateResource.cache
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.csproj.CoreCompileInputs.cache
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.exe
+C:\Users\ccquo\Downloads\Compressed\Management Employees (1)\Management Employees (1)\Management Employees\ManagementEmployees\ManagementEmployees\obj\Debug\ManagementEmployees.pdb
